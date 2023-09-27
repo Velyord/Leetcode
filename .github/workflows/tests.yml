@@ -10,8 +10,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Compile Java
-        run: javac -d bin src/*.java
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          java-version: '11'
 
-      - name: Run Tests
-        run: java -cp tests/* org.junit.platform.console.ConsoleLauncher --scan-classpath
+      - name: Compile Java code
+        run: javac -d ./compiled ./src/*.java
+
+      - name: Download JUnit JAR
+        run: curl -O https://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.jar
+
+      - name: Run JUnit tests
+        run: java -cp ./compiled:./junit-4.12.jar org.junit.runner.JUnitCore YourTestClassName
