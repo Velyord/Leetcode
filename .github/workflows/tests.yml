@@ -9,3 +9,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+
+      - name: Compile Java code
+        run: javac -d ./compiled ./src/*.java
+
+      - name: Download JUnit JAR
+        run: curl -O https://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.jar
+
+      - name: Run JUnit tests
+        run: java -cp ./compiled:./junit-4.12.jar org.junit.runner.JUnitCore YourTestClassName
