@@ -14,4 +14,4 @@ jobs:
         run: javac -d bin src/*.java
 
       - name: Run Tests
-        run: java -cp bin:tests/* org.junit.platform.console.ConsoleLauncher --scan-classpath
+        run: java -cp tests/* org.junit.platform.console.ConsoleLauncher --scan-classpath
