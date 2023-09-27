@@ -5,7 +5,7 @@ import java.util.List;
 
 import static java.lang.System.out;
 
-class PalindromeNumber9 {
+public class PalindromeNumber9 {
     public static void main(String[] args) {
         out.println("Your Output:");
         out.println(isPalindrome(121));
