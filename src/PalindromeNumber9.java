@@ -7,9 +7,11 @@ import static java.lang.System.out;
 
 class PalindromeNumber9 {
     public static void main(String[] args) {
+        out.println("Your Output:");
         out.println(isPalindrome(121));
         out.println(isPalindrome(-121));
         out.println(isPalindrome(10));
+        out.println("\nExpected Output:\ntrue\nfalse\nfalse");
     }
 
     public static boolean isPalindrome(int x) {
