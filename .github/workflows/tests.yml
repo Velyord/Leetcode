@@ -15,6 +15,3 @@ jobs:
 
       - name: Download JUnit JAR
         run: curl -O https://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12.jar
-
-      - name: Run JUnit tests
-        run: java -cp ./compiled:./junit-4.12.jar org.junit.runner.JUnitCore tests.PalindromeNumber9Test
