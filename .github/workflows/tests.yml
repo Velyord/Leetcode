@@ -15,13 +15,7 @@ jobs:
 
       - name: Install JUnit 5
         run: |
-          wget https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.2/junit-jupiter-api-5.7.2.jar
-          wget https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar
-          wget https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar
-          mkdir -p lib
-          mv junit-jupiter-api-5.7.2.jar lib/
-          mv apiguardian-api-1.1.0.jar lib/
-          mv opentest4j-1.2.0.jar lib/
+          curl -L -o junit-platform-console-standalone.jar https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-console-standalone/1.8.0/junit-platform-console-standalone-1.8.0.jar
 
       - name: Compile and Run Tests
         run: |
