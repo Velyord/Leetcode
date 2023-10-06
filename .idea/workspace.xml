@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67564626-3b04-4613-ab02-2135e7344086" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ValidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromeNumber9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeNumber9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RomanToInteger13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RomanToInteger13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoSum1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidParentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,13 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696502560310</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Task Completed">
+      <created>1696591749434</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696591749434</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="13" />
     <MESSAGE value="test setup" />
     <MESSAGE value="Easy Task Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Easy Task Completed" />
+    <MESSAGE value="Task Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task Completed" />
   </component>
 </project>
