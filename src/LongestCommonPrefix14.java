@@ -18,7 +18,7 @@ package src;
 
 import static java.lang.System.out;
 
-public class LongestCommonPrefix {
+public class LongestCommonPrefix14 {
     public static void main(String[] args) {
         out.println("Your Output:");
         out.println(longestCommonPrefix(new String[]{"flower","flow","flight"}));

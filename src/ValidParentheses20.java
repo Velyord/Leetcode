@@ -22,7 +22,7 @@ package src;
 
 import static java.lang.System.out;
 
-public class ValidParentheses {
+public class ValidParentheses20 {
     public static void main(String[] args) {
         out.println("Your Output:");
         out.println(isValid("()"));
