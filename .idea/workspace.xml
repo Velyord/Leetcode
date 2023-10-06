@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67564626-3b04-4613-ab02-2135e7344086" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/src/PalindromeNumber9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/src/PalindromeNumber9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/src/RomanToInteger13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/src/RomanToInteger13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/src/TwoSum1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/src/TwoSum1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696595796591</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Task Complete">
+      <created>1696598762221</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1696598762221</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +236,18 @@
     <MESSAGE value="Easy Task Completed" />
     <MESSAGE value="Task Completed" />
     <MESSAGE value="Added Tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Tasks" />
+    <MESSAGE value="Task Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task Complete" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray26.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
