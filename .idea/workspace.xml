@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67564626-3b04-4613-ab02-2135e7344086" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RemoveElement27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="67564626-3b04-4613-ab02-2135e7344086" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,17 +235,24 @@
       <option name="project" value="LOCAL" />
       <updated>1696601068961</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Task Completed">
+      <created>1696604339730</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1696604339730</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="13" />
     <MESSAGE value="test setup" />
     <MESSAGE value="Easy Task Completed" />
-    <MESSAGE value="Task Completed" />
     <MESSAGE value="Added Tasks" />
     <MESSAGE value="Task Complete" />
     <MESSAGE value="Added numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added numbers" />
+    <MESSAGE value="Task Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task Completed" />
   </component>
 </project>
