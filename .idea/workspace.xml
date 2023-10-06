@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67564626-3b04-4613-ab02-2135e7344086" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MergeTwoSortedLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PalindromeNumber9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeNumber9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RomanToInteger13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RomanToInteger13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoSum1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidParentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +203,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696591749434</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added Tasks">
+      <created>1696595642672</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1696595642672</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added Tasks">
+      <created>1696595796591</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1696595796591</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,6 +225,7 @@
     <MESSAGE value="test setup" />
     <MESSAGE value="Easy Task Completed" />
     <MESSAGE value="Task Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task Completed" />
+    <MESSAGE value="Added Tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Tasks" />
   </component>
 </project>
