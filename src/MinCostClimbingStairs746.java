@@ -29,8 +29,6 @@ Constraints:
  */
 package src;
 
-import java.util.Arrays;
-
 import static java.lang.System.out;
 
 public class MinCostClimbingStairs746 {

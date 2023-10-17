@@ -22,9 +22,6 @@ Constraints:
  */
 package src;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import static java.lang.System.out;
 
 public class ClimbingStairs70 {
