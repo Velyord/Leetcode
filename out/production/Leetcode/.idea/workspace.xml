@@ -43,7 +43,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="TwoSum1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.TwoSum1" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -185,12 +186,115 @@
       <option name="project" value="LOCAL" />
       <updated>1695898998443</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Easy Task Completed">
+      <created>1696502560310</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696502560310</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Task Completed">
+      <created>1696591749434</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696591749434</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added Tasks">
+      <created>1696595642672</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1696595642672</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added Tasks">
+      <created>1696595796591</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1696595796591</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Task Complete">
+      <created>1696598762221</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1696598762221</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Task Complete">
+      <created>1696600962811</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1696600962811</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added numbers">
+      <created>1696601068961</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1696601068961</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Task Completed">
+      <created>1696604339730</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1696604339730</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Task Completed">
+      <created>1696605036457</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1696605036457</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Task Completed">
+      <created>1696605721185</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1696605721185</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Task Completed">
+      <created>1696842081202</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1696842081202</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Task Completed">
+      <created>1696849491338</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1696849491338</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Task Completed">
+      <created>1696855129646</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1696855129646</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Task Completed">
+      <created>1696857264157</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1696857264157</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="13" />
     <MESSAGE value="test setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="test setup" />
+    <MESSAGE value="Easy Task Completed" />
+    <MESSAGE value="Added Tasks" />
+    <MESSAGE value="Task Complete" />
+    <MESSAGE value="Added numbers" />
+    <MESSAGE value="Task Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task Completed" />
   </component>
 </project>
