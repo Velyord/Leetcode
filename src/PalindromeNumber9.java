@@ -33,11 +33,20 @@ public class PalindromeNumber9 {
     }
 
     public static boolean isPalindrome(int x) {
-        if (x < 0) {
+        if ((x < 0) || (x != 0 && x % 10 == 0)){
             return false;
         }
 
-        List<Integer> numList = new ArrayList<>();
+        int half = 0;
+
+        while (x > half) {
+            half = (half * 10) + (x % 10);
+            x /= 10;
+        }
+
+        return x == half || x == half / 10;
+
+/*        List<Integer> numList = new ArrayList<>();
 
         while (x>0) {
             numList.add(x % 10);
@@ -50,6 +59,6 @@ public class PalindromeNumber9 {
             }
         }
 
-        return true;
+        return true;*/
     }
 }
