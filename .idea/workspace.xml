@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67564626-3b04-4613-ab02-2135e7344086" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/src/MinCostClimbingStairs746.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/src/MinCostClimbingStairs746.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/src/PalindromeNumber9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/src/PalindromeNumber9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PalindromeNumber9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeNumber9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoSum1.java" afterDir="false" />
-    </list>
+    <list default="true" id="67564626-3b04-4613-ab02-2135e7344086" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -311,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697550608786</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Updated Solving">
+      <created>1697813786877</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1697813786877</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -322,6 +323,7 @@
     <MESSAGE value="Task Complete" />
     <MESSAGE value="Added numbers" />
     <MESSAGE value="Task Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task Completed" />
+    <MESSAGE value="Updated Solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Solving" />
   </component>
 </project>
